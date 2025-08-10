@@ -1,38 +1,44 @@
 body {
-    min-height: 100vh;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(135deg, #b2f7ff 0%, #8ecfff 100%);
-    font-family: 'Montserrat', 'Segoe UI', Arial, sans-serif;
-}
-.countdown-box {
-    margin-top: 40px;
-    padding: 32px 50px;
-    background: #23292f;
-    color: #fff;
-    font-weight: 700;
-    font-size: 2.2rem;
-    border-radius: 25px;
-    box-shadow: 0 8px 32px rgba(20,20,50,0.08);
+    background-color: skyblue;
+    font-family: Arial, sans-serif;
     text-align: center;
+    padding-top: 50px;
 }
-#timer {
-    background: rgba(40, 44, 52, 0.93);
+
+h1 {
     color: #fff;
-    font-size: 2.8rem;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+#countdown {
+    display: none; /* hidden until button is pressed */
+    padding: 10px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    margin-top: 15px;
+
+    /* Gradient text effect */
+    background: linear-gradient(to right, #000000, #434343);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Trebuchet MS', sans-serif;
     letter-spacing: 2px;
-    padding: 45px 80px;
-    border-radius: 36px;
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.17);
-    text-align: center;
-    min-width: 280px;
-    transition: box-shadow 0.2s;
-    margin-bottom: 12px;
 }
-#timer:hover {
-    box-shadow: 0 12px 40px 0 rgba(31,38,135,.22);
-    background: rgba(60, 64, 72, 0.95);
+
+#startBtn {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background 0.3s;
+}
+
+#startBtn:hover {
+    background-color: darkgreen;
 }
