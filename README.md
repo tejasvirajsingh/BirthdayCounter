@@ -14,4 +14,5 @@ Perfect for sharing your birthday excitement with friends or keeping track of sp
 
 🚀 Live Demo
 Check it out here:
-https://tejasvirajsingh.github.io/BirthdayCounter/it's trial of counter modified
+https://tejasvirajsingh.github.io/BirthdayCounter/ trial of counter modified
+
