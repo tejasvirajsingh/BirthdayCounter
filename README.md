@@ -1,8 +1,9 @@
-🎉 Birthday Countdown
+## 🎉 Birthday Countdown
 A simple and beautiful web app to count down the days, months, minutes, and seconds until your next birthday!
 Perfect for sharing your birthday excitement with friends or keeping track of special days.
 
-![Birthday Countdown ✨ Features
+### ✨ Features
+---
 
 🎂 Real-time countdown timer for birthdays or any special date
 
@@ -10,9 +11,10 @@ Perfect for sharing your birthday excitement with friends or keeping track of sp
 
 🕒 Shows months, days, minutes, and seconds remaining
 
-🔒 No data storage—runs entirely in your browser
 
-🚀 Live Demo
+---
+ ### 🚀 Visit To site
 Check it out here:
 https://tejasvirajsingh.github.io/BirthdayCounter/ trial of counter modified
 
+🔒 No data storage—runs entirely in your browser
