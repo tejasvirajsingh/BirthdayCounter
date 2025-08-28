@@ -15,6 +15,6 @@ Perfect for sharing your birthday excitement with friends or keeping track of sp
 ---
  ### 🚀 Visit To site
 Check it out here:
-https://tejasvirajsingh.github.io/BirthdayCounter/ trial of counter modified
+[https://tejasvirajsingh.github.io/BirthdayCounter/](https://tejasvirajsingh.github.io/BirthdayCounter/) trial of counter modified
 
 🔒 No data storage—runs entirely in your browser
