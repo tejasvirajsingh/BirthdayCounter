@@ -29,7 +29,7 @@ document.getElementById("startBtn").addEventListener("click", function () {
         let seconds = Math.floor((birthday - now) % (1000 * 60) / 1000);
 
         document.getElementById("countdown").innerHTML = 
-            `${months}m ${days}d ${hours}h ${minutes}m ${seconds}s`;
+            `${months}M ${days}D ${hours}H ${minutes}M ${seconds}S`;
     }
 
     updateCountdown();
